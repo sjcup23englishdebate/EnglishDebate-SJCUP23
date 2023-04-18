@@ -1,1 +1,1 @@
-# englishdebate-sjcup23
+# SJ CUP 23 - ENGLISH DEBATE
