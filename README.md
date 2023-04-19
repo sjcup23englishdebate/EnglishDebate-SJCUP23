@@ -1,16 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>My Website</title>
+	ENGLISH DEBATE - SJ CUP 2023
 </head>
 <body>
 	<header>
-		<h1>Welcome to SJ CUP English Debate</h1>
+		<h1>Welcome to SJ CUP 2023 English Debate!</h1>
 		<nav>
 			<ul>
-				<li><a href="#">Home</a></li>
-				<li><a href="#">Team Tab</a></li>
-				<li><a href="#">Speakers Tab</a></li>
+	<li><a href="#">Home</a></li>
+	<li><a href="#">Team Tab</a></li>
+	<li><a href="#">Speakers Tab</a></li>
         <li><a href="#">Replies Tab</a></li>
         <li><a href="#">Results</a></li>
         <li><a href="#">Break</a></li>
@@ -24,7 +24,7 @@
 		<!-- Your website content goes here -->
 	</main>
 	<footer>
-		<p>&copy; 2023 My Website</p>
+		<p>&copy; 2023 SJ CUP</p>
 	</footer>
 </body>
 </html>
